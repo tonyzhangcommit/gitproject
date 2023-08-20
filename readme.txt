@@ -6,3 +6,6 @@
 这里是dev-branch 的更改
 bug 修复中.....
 bug 修复完成，gooooooooooood
+git commit 1
+git commit 2
+git commit 3
